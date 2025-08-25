@@ -52,7 +52,7 @@ A simple Express.js app showing routing and middleware.
 Python scripts for automation tasks.  
 - **Features:** File input/output, web scraping, PDF text extraction.  
 - **Tech:** Python, Requests, File I/O.  
-- **View Code:** Repo in progress – available soon  
+- **View Code:** [https://github.com/asmit052/python-automation)
 
 ---
 
