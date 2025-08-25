@@ -20,38 +20,47 @@ I am a Computer Science student at ECPI University with a concentration in Softw
 
 ## Projects  
 
-### 1. MEAN Stack CRUD Application
-A full-stack web app using MongoDB, Express, Angular, and Node.js.
-- Features: Create, read, update, delete records.
-- Tech: MEAN stack, REST API, Mongoose.
-- View Code: 
-  - [https://github.com/asmit052/4.2GP.git]  
-  - [https://github.com/asmit052/4.3GP.git]  
-  - [https://github.com/asmit052/4.4PA.git]  
 
-### 2. Mongoose Schema Extension
-Backend project showing database schema design and validation.
-- Features: Schema fields, validation, relationships.
-- Tech: Node.js, Express.js, MongoDB, Mongoose.
-- View Code: [https://github.com/asmit052/2.4PA.git]  
+### 1. MEAN Stack CRUD Application  
+A full-stack web app using MongoDB, Express, Angular, and Node.js.  
+- **Features:** Create, read, update, delete records.  
+- **Tech:** MEAN stack, REST API, Mongoose.  
+- **View Code:**  
+  - [4.2GP](https://github.com/asmit052/4.2GP.git)  
+  - [4.3GP](https://github.com/asmit052/4.3GP.git)  
+  - [4.4PA](https://github.com/asmit052/4.4PA.git)  
 
-### 3. Express Starter App
-A simple Express.js app showing routing and middleware.
-- Features: Basic server setup and REST API structure.
-- Tech: Node.js, Express.
-- View Code: [https://github.com/asmit052/1.5-PA.git]  
+---
 
-### 4. Python Automation – Web Scraping and File Processing
-Python scripts for automation tasks.
-- Features: File input/output, web scraping, PDF text extraction.
-- Tech: Python, Requests, File I/O.
-- View Code: [https://github.com/asmit052/python-automation]
+### 2. Mongoose Schema Extension  
+Backend project showing database schema design and validation.  
+- **Features:** Schema fields, validation, relationships.  
+- **Tech:** Node.js, Express.js, MongoDB, Mongoose.  
+- **View Code:** [2.4PA](https://github.com/asmit052/2.4PA.git)  
 
-### 5. PHP MVC File Manager
-A file management web application in PHP.
-- Features: User login, file editing, image upload/resizing.
-- Tech: PHP (OOP, MVC), MySQL, Bootstrap.
-- View Code: 
-  - [https://github.com/asmit052/1.6PA.git]  
-  - [https://github.com/asmit052/4.4GP.git]  
+---
+
+### 3. Express Starter App  
+A simple Express.js app showing routing and middleware.  
+- **Features:** Basic server setup and REST API structure.  
+- **Tech:** Node.js, Express.  
+- **View Code:** [1.5-PA](https://github.com/asmit052/1.5-PA.git)  
+
+---
+
+### 4. Python Automation – Web Scraping and File Processing  
+Python scripts for automation tasks.  
+- **Features:** File input/output, web scraping, PDF text extraction.  
+- **Tech:** Python, Requests, File I/O.  
+- **View Code:** Repo in progress – available soon  
+
+---
+
+### 5. PHP MVC File Manager  
+A file management web application in PHP.  
+- **Features:** User login, file editing, image upload/resizing.  
+- **Tech:** PHP (OOP, MVC), MySQL, Bootstrap.  
+- **View Code:**  
+  - [1.6PA](https://github.com/asmit052/1.6PA.git)  
+  - [4.4GP](https://github.com/asmit052/4.4GP.git)  
 
