@@ -68,7 +68,7 @@ Deployed full-stack web app demonstrating front-end design, interactive function
 
 ## 📂 Additional Notes
 
-- All projects are course assignments or personal projects demonstrating software development skills.  
+- All projects are course assignments or projects demonstrating software development skills.  
 - Live demos highlight interactive and functional features.  
 - This portfolio is curated to show my work in full-stack and backend development.  
 
