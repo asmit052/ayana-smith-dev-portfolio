@@ -32,11 +32,8 @@ Deployed full-stack web app demonstrating front-end design, interactive function
 **Description:** Full-stack app for managing records using MongoDB, Express, Angular, and Node.js.  
 **Features:** Create, read, update, delete records via REST API  
 **Tech Stack:** MEAN stack, Mongoose  
-**Code References:** [4.2GP](https://github.com/asmit052/4.2GP) 
-
-[4.3GP](https://github.com/asmit052/4.3GP)
-
-[4.4PA](https://github.com/asmit052/4.4PA)
+**Code References:** [4.2GP](https://github.com/asmit052/4.2GP)| [4.3GP](https://github.com/asmit052/4.3GP)
+ | [4.4PA](https://github.com/asmit052/4.4PA)
 
 ### 2. Mongoose Schema Extension
 **Description:** Backend project demonstrating database schema design and validation.  
