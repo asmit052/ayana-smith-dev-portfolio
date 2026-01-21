@@ -46,21 +46,6 @@ A simple Express.js app showing routing and middleware.
 - **Tech:** Node.js, Express.  
 - **View Code:** [1.5-PA](https://github.com/asmit052/1.5-PA.git)  
 
----
+--- 
 
-### 4. Python Automation – Web Scraping and File Processing  
-Python scripts for automation tasks.  
-- **Features:** File input/output, web scraping, PDF text extraction.  
-- **Tech:** Python, Requests, File I/O.  
-- **View Code:** [https://github.com/asmit052/python-automation)
-
----
-
-### 5. PHP MVC File Manager  
-A file management web application in PHP.  
-- **Features:** User login, file editing, image upload/resizing.  
-- **Tech:** PHP (OOP, MVC), MySQL, Bootstrap.  
-- **View Code:**  
-  - [1.6PA](https://github.com/asmit052/1.6PA.git)  
-  - [4.4GP](https://github.com/asmit052/4.4GP.git)  
 
