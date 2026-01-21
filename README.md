@@ -5,7 +5,7 @@ Welcome to my portfolio! This repository highlights selected projects that demon
 ---
 
 ## About Me  
-I am December 2025 Computer Science graduate from ECPI University with a concentration in Software Development. My academic experience spans across front-end development, back-end programming, database design, and full-stack applications. I am passionate about building clean, scalable, and user-friendly applications that solve real problems efficiently.  
+I am a December 2025 Computer Science graduate from ECPI University with a concentration in Software Development. My academic experience spans across front-end development, back-end programming, database design, and full-stack applications. I am passionate about building clean, scalable, and user-friendly applications that solve real problems efficiently.  
  
 ---
 
