@@ -1,6 +1,6 @@
 # Ayana Smith – Software Development Portfolio  
 
-Welcome to my portfolio! This repository highlights selected projects that demonstrate my skills in full-stack development, software design, and problem-solving. Each project includes a description, technologies used, and a link to the code.  
+This repository highlights selected projects that demonstrate my skills in full-stack development, software design, and problem-solving. Each project includes a description, technologies used, and a link to the code.  
 
 ---
 
